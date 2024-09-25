@@ -1,0 +1,54 @@
+h1 {
+    font-family: 'Street Rats', sans-serif;
+    font-weight: 400;
+    font-size: 60px;
+    color: #5a0002;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+body{
+    background-color: #cbcacc;
+}
+.lateral{
+    display: flex;
+    justify-content: center;
+}
+.menu{
+    background-color: #a40606;
+    height: 600px;
+    width: 400px;
+    border-radius: 30px;
+    margin: 20px;
+}
+.principal{
+    background-color: #d98324;
+    height: 600px;
+    width: 400px;
+    border-radius: 30px;
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.info{
+    background-color: #d7cf07;
+    height: 600px;
+    width: 400px;
+    border-radius: 30px;
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.post{
+    background-color: #fbfff1;
+    height: 600px;
+    width: 400px;
+    border-radius: 30px;
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
