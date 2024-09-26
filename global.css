@@ -1,0 +1,100 @@
+body{
+    background-color: #F7F1ED;
+}
+/*h1{
+    height: 50px;
+    width: 230px;
+    font-family: 'STANFORD FREE', sans-serif;
+    padding-left: 20px;
+    margin-top: 10px;
+    font-size: 40px;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+}
+.post{
+    background-color: #B49479;
+    border: 2px solid #816854;
+    height: 50px;
+    width: 300px;
+    margin: 5px;
+    border-radius: 20px;
+}*/
+.quadrador{
+    background-color: #B49479;
+    height: 600px;
+    width: 800px;
+    margin: 20px;
+    border-radius: 50px;
+    border: 2px solid #816854;
+}
+.circulo{
+    background-color: #697090;
+    height: 150px;
+    width: 150px;
+    margin: 30px;
+    border-radius: 50%;
+    border: 2px solid #291E1E;
+}
+.retangulo{
+    background-color: #697090;
+    width: 500px;
+    height: 100px;
+    margin-left: 30px;
+    margin-top: 20px;
+    border-radius: 30px;
+    border: 2px solid #291E1E;
+}
+.quadrado{
+    background-color: #697090;
+    width: 500px;
+    height: 467px;
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 30px;
+    border: 2px solid #291E1E;
+}
+.circulos, .row, .paleta{
+    display: flex;
+    flex-direction: row;
+}
+.column{
+    display: flex;
+    flex-direction: column;
+}
+/*.cor1{
+    background-color: #291E1E;
+    height: 150px;
+    width: 150px;
+    border: 2px solid #dddddd;
+    margin: 5px;
+}
+.cor2{
+    background-color: #697090;
+    height: 150px;
+    width: 150px;
+    border: 2px solid #dddddd;
+    margin: 5px;
+}
+.cor3{
+    background-color: #F7F1ED;
+    height: 150px;
+    width: 150px;
+    border: 2px solid #dddddd;
+    margin: 5px;
+}
+.cor4{
+    background-color: #B49479;
+    height: 150px;
+    width: 150px;
+    border: 2px solid #dddddd;
+    margin: 5px;
+}
+.cor5{
+    background-color: #816854;
+    height: 150px;
+    width: 150px;
+    border: 2px solid #dddddd;
+    margin: 5px;
+}*/
