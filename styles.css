@@ -13,4 +13,11 @@ body{
 .container{
     text-align: center;
 }
+.button{
+    margin-top: 25px;
+}
+label{
+    font-family: 'Noto Serif Display', sans-serif;
+    font-style: italic;
+}
 
