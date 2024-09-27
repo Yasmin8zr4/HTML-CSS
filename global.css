@@ -1,0 +1,115 @@
+
+body{
+    background-color: #F7F1ED;
+}
+.coluna{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.image{
+    height: 220px;
+    width: 330px;
+    display: flex;
+    justify-content: center;
+    border: 5px, solid, #697090;
+}
+.texto1{
+    height: 400px;
+    width: 350px;
+    margin: 30px;
+    font-family: 'Dahlia', sans-serif;
+}
+#carouselExampleIndicators, #carouselExampleIndicators1{
+    height: 594px;
+    width: 487px;
+    margin-top: 35px;
+    border: 5px, solid, #697090;
+}
+.carousel-inner, .carousel-inner1{
+    height: 602px;
+    width: 477px;
+}
+.meio{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.tudo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.menu{
+    background-color: #B49479;
+    height: 50px;
+    width: 1840px;
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+    font-size: 30px;
+    font-family: 'ADLaM Display', sans-serif;
+    color: #F7F1ED;
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+}
+.final{
+    display: flex;
+    justify-content: center;
+}
+.cards, .card{
+    margin: 30px;
+    height: 400px;
+    width: 900px;
+    display: flex;
+    justify-content: center;
+}
+.card{
+    border: 5px, solid, #697090;
+}
+.foto{
+    height: 170px;
+    width: 225px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-left: 5px;
+}
+.foto1{
+    margin-top: 30px;
+    margin-left: 30px;
+    height: 170px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+}
+.foto2{
+    margin-left: 35px;
+    height: 170px;
+    width: 190px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.card-title1{
+    margin-bottom: 33px;
+}
+.card-title2{
+    margin-bottom: 33px;
+}
+.espaco{
+    background-color: #B49479;
+    height: 50px;
+    width: 1840px;
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    font-family: 'ADLaM Display', sans-serif;
+    color: #F7F1ED;
+}
