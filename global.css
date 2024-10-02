@@ -1,0 +1,14 @@
+.navbar-brand{
+    padding-left: 50px;
+    color: #000000;                                                                    
+    font-family: 'Callahan', sans-serif;
+    font-size: 30px;           
+}
+.nav-item{
+    color: #000000;                                                                    
+    font-family: 'Callahan', sans-serif;
+    font-size: 25px; 
+}
+.cor{
+    background-color: #ACBFA4;
+}
