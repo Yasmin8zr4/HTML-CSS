@@ -1,0 +1,92 @@
+.navbar-brand{
+    padding-top: 20px;
+    padding-left: 50px;
+    color: #DFCBA4;                                                                    
+    font-family: 'Parry Hotter', sans-serif;
+    font-size: 35px;     
+    padding-left: 15px;      
+}
+.nav-item, .nav-link{
+    padding-top: 10px;
+    color: #CCAB6F;                                                                    
+    font-family: 'Parry Hotter', sans-serif;
+    font-size: 25px; 
+    padding-left: 20px;
+}
+.cor{
+    background-color: #662F19;
+}
+.navbar-toggler{
+    margin-right: 10px;
+}
+.slide1{
+    height: 90vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    background-image: url("img.jpg");
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    margin-top: -55px;
+    background-color: #DFCBA4;
+    border-bottom: 2px, solid, #662F19;
+}
+.direita{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+h1{
+    color: #662F19;                                                                    
+    font-family: 'Parry Hotter', sans-serif;
+    font-size: 30px; 
+    margin-top: 10px;
+    margin-bottom: 18px;
+}
+.apresentacao{
+    height: 500px;
+    width: 800px;
+    background-color: #DFCBA4;
+    margin-right: 50px;
+    border-radius: 40px;
+    font-family: 'Twilight Lechy Bold', sans-serif;
+    font-size: 26px;
+    color: #000000;
+    padding: 25px;
+    font-weight: bold;
+    opacity: 90%;
+}
+.slide2{
+    height: 90vh;
+    width: 100vw;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    background-color: #DFCBA4;
+}
+.casas{
+    display: flex;
+    flex-direction: column;
+    padding: 35px;
+    font-family: 'Twilight Lechy Bold', sans-serif;
+    font-size: 26px;
+    color: #000000;
+    font-weight: bold;
+    opacity: 90%;
+}
+.casass{
+    color: #662F19;                                                                    
+    font-family: 'Parry Hotter', sans-serif;
+    font-size: 60px; 
+    margin: 40px;
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+.casa{
+    display: flex;
+    flex-direction: row;
+}
